@@ -4,16 +4,16 @@
 [![Linkedin: loiane](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/loiane/)](https://www.linkedin.com/in/eduardoaraujo2/)
 [![Twitter Follow](https://img.shields.io/twitter/follow/eduaraujoedu?style=social)](https://twitter.com/eduaraujoedu)
 
-![EduMalkavian GitHub stats](https://github-readme-stats.vercel.app/api?username=EduardoMalkavian&show_icons=true&theme=radical)
 
+## My GitHub Stats 📈
 
-## Linguagens que eu estou estudando no momento
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EduardoMalkavian)](https://github.com//github-readme-stats)
+<img width="500em" src="https://github-readme-stats.vercel.app/api?username=EduardoMalkavian&show_icons=true&theme=tokyonight" alt="EduardoMalkavian's stats"/>
+<img width="500em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduardoMalkavian&layout=compact&theme=tokyonight" alt="EduardoMalkavian's most languages"/>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=EduardoMalkavian&theme=tokyonight" alt="EduardoMalkavian" /></p>
 
 
 ## ⚡ Technologies
-Aqui estão as tecnologias que eu estou ultilizando no momento
+
 
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
